@@ -1,3 +1,7 @@
+#Dokumentation
+1. Sie finden den Controller in /src/Controller/TeamController.php
+2. Sie können die Vorlagen unter „Vorlagen/Team“ auswählen
+
 # Demo and Blue Print Application for Pimcore
 
 This demo package is intended to be used by Pimcore newcomers who want to learn Pimcore and see it in action. 
